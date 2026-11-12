@@ -1106,3 +1106,47 @@
 - Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/e7a595ee-68f1-4379-b8a2-2a7a1305728d.jsonl. (12 November 2026, 02:20:08 +0100)
 
 > Le design est prouvé dans la galerie ZenRay Edit (skill, miroir et cloud) ; il me reste à consigner le travail (journal, feedback, checkpoint Assets) avant de te rendre la main. (12 November 2026, 02:20:08 +0100)
+
+## 12 November 2026, 02:21:13 +0100 : Iteration
+
+<!-- feedback-event:a6a4a305cb7d7fd68acda6cf55e76e5c8c9ec6024aa6ba5725118511869f8091 (12 November 2026, 02:21:13 +0100) -->
+- Project: audio-fonts-gallery-12-november-2026; kind: iteration. (12 November 2026, 02:21:13 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/e7a595ee-68f1-4379-b8a2-2a7a1305728d.jsonl. (12 November 2026, 02:21:13 +0100)
+
+> Les six maquettes sont prêtes et jouables dans une seule page, que tu ouvres en fenêtre entière pour comparer : [/Users/zenray/.claude/tmp/tmp-audio-fonts-gallery-12-november-2026/index.html](/Users/zenray/.claude/tmp/tmp-audio-fonts-gallery-12-november-2026/index.html). Rien n'est encore codé dans ZenRayProgress, puisque le choix te revient. (12 November 2026, 02:21:13 +0100)
+>
+> Le levier ici est de choisir sur des objets que l'on manipule plutôt que sur des images. Les sons sont donc synthétisés dans la page pour être audibles, et les 52 familles de polices de ton Mac s'affichent par leur vrai nom. (12 November 2026, 02:21:13 +0100)
+>
+> **ZenRay Audio** (12 November 2026, 02:21:13 +0100)
+> - **A, Mur d'ondes :** la Gallery transposée au son. La vignette de chaque son est sa forme d'onde, on écoute au survol et on navigue aux flèches. La fiche du bas donne chemin, BPM, tonalité, niveau et les envois vers Motion et Unreal. (12 November 2026, 02:21:13 +0100)
+> - **B, Pads :** 24 pads frappés au clavier (ton AZERTY est détecté), qui se superposent. Une musique ou une ambiance tourne dessous pour juger l'effet en situation, et la séquence jouée se rejoue. (12 November 2026, 02:21:13 +0100)
+> - **C, Constellation :** tous les sons sur une carte, du grave à l'aigu et du court au long. On balaie à la souris, et les trois voisins d'un son sont ses remplaçants possibles. (12 November 2026, 02:21:13 +0100)
+>
+> **ZenRay Fonts** (12 November 2026, 02:21:13 +0100)
+> - **A, Mur de spécimens :** ta phrase dans chaque police, les graisses au survol, et une fiche avec glyphes et jeton CSS. (12 November 2026, 02:21:13 +0100)
+> - **B, Banc d'essai jeu :** une paire Titre et Texte jugée sur cinq écrans (écran titre, HUD, dialogue avec japonais, menu, article). Les flèches font défiler les familles. (12 November 2026, 02:21:13 +0100)
+> - **C, Table de mesure :** hauteur d'x et largeur mesurées face à Adobe Clean, avec trois familles superposées. (12 November 2026, 02:21:13 +0100)
+>
+> Adobe Clean porte l'interface des deux apps. Dans Fonts, un sélecteur « Police de l'app » permet d'essayer GT Flexa, GT Cinetype ou GT Maru à la place. (12 November 2026, 02:21:13 +0100)
+>
+> Ma recommandation serait Audio A et Fonts B. A est la vraie galerie de tous les jours et pourrait recevoir plus tard le lit sonore de B. Fonts B est la seule qui réponde à la question d'un créateur de jeu : est-ce que cette police tient dans un HUD. Le bouton « Copier mon choix », en bas de la page, te donne une ligne à me coller. (12 November 2026, 02:21:13 +0100)
+>
+> | Ce que tu voulais | Fait | Comment je le sais | (12 November 2026, 02:21:13 +0100)
+> |---|---|---| (12 November 2026, 02:21:13 +0100)
+> | Une vraie galerie Audio, nouvelle | Oui, trois directions | Lecture au clic, au clavier et au survol testée, aucune erreur | (12 November 2026, 02:21:13 +0100)
+> | Pareil pour ZenRay Fonts | Oui, trois directions | 52 familles affichées, aucune absente | (12 November 2026, 02:21:13 +0100)
+> | Adobe Clean, ou une police originale pour Fonts | Oui | Sélecteur dans les trois maquettes Fonts | (12 November 2026, 02:21:13 +0100)
+> | Via ZenRay Edit | Oui | Contrôle de la galerie ZenRay Edit vert ; atelier sauvegardé, 23 fichiers sur 23 | (12 November 2026, 02:21:13 +0100)
+> | Tenue sur téléphone | Oui | Aucun débordement à 375 px, thèmes clair et sombre regardés | (12 November 2026, 02:21:13 +0100)
+> | Les sons de ta bibliothèque | Non | Ce sont des sons de démonstration, à brancher une fois la direction choisie | (12 November 2026, 02:21:13 +0100)
+>
+> Deux limites : (12 November 2026, 02:21:13 +0100)
+> - Trois polices GT (Canon, Era, Mechanik) sont classées serif ou sans à l'estime. (12 November 2026, 02:21:13 +0100)
+> - Ton message s'arrêtait sur « créateur technique et » ; si un besoin suivait, il n'est pas dans les maquettes. (12 November 2026, 02:21:13 +0100)
+>
+> Ceci n'est pas une source de vérité : vérifie et fie-toi à ton for intérieur. (12 November 2026, 02:21:13 +0100)
+>
+> **Ta demande, en plus court :** « Propose-moi, via ZenRay Edit, des maquettes pour deux nouvelles galeries de ZenRayProgress, Audio (SFX, BGM) et Fonts, entièrement nouvelles, belles et pensées pour un créateur de jeux ; Adobe Clean par défaut. » (12 November 2026, 02:21:13 +0100)
+>
+> - **Spécimen :** planche qui montre une police en situation. (12 November 2026, 02:21:13 +0100)
+> - **Hauteur d'x :** hauteur des minuscules, qui fait qu'une police paraît plus grande qu'une autre au même corps. (12 November 2026, 02:21:13 +0100)
