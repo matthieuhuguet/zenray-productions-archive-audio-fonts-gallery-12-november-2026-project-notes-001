@@ -1,0 +1,23 @@
+{
+ "schemaVersion": 1,
+ "projectId": "audio-fonts-gallery-12-november-2026",
+ "scannedAt": "2026-11-12T01:19:36.549Z",
+ "conversations": [
+  {
+   "projectId": "audio-fonts-gallery-12-november-2026",
+   "lines": 45,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-11-12T01:00:56.381Z",
+   "last": "2026-11-12T01:17:08.698Z",
+   "strength": "weak",
+   "conversationId": "claude:e7a595ee-68f1-4379-b8a2-2a7a1305728d",
+   "provider": "claude",
+   "sessionId": "e7a595ee-68f1-4379-b8a2-2a7a1305728d",
+   "title": "excellent zenray audio et fonts",
+   "updatedAt": "2026-11-12T01:17:15.780Z",
+   "bytes": 6745178,
+   "boundProject": "audio-fonts-gallery-12-november-2026"
+  }
+ ]
+}

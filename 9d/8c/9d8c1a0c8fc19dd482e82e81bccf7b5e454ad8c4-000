@@ -1059,3 +1059,50 @@
 - Project: audio-fonts-gallery-12-november-2026; kind: prompt. (12 November 2026, 02:01:53 +0100)
 
 > 12 November 2026, prompt 1 (mots de Matthieu) : j'aimerai créer l'équivalent de gallery de zenray-progress pour les musiques les sons ... SFX ou BGM en soit UI doit être ultra agréable à utiliser magnifique addictive à utiliser + original et design... donc une vrai gallery Audio ... pas reprendre l'existant de zenray audio mais composer quelque chose de totalement nouveau et faire pareil pour zenray fonts. go propose : fonts Adobe Clean pour les 2 apps. ou font original ou plusieurs pour zenray fonts. go. propose moi des design mockup via zenray-edit et je choisirai. je veux que les design réponde surtout à mes besoins fonctionnels hyper beau / jeux vidéos / créateur technique et [message coupé ici] (12 November 2026, 02:01:53 +0100)
+
+## 12 November 2026, 02:06:11 +0100 : Iteration
+
+<!-- feedback-event:b85409b290d81a554e60414b5f62f6f961142124f6c077be0f1b373f65fd218f (12 November 2026, 02:06:11 +0100) -->
+- Project: audio-fonts-gallery-12-november-2026; kind: iteration. (12 November 2026, 02:06:11 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/e7a595ee-68f1-4379-b8a2-2a7a1305728d.jsonl. (12 November 2026, 02:06:11 +0100)
+
+> J'écris maintenant les maquettes : le moteur audio de démonstration (sons synthétisés pour que tout soit jouable), puis les trois directions Audio et les trois directions Fonts. (12 November 2026, 02:06:11 +0100)
+
+## 12 November 2026, 02:10:22 +0100 : Iteration
+
+<!-- feedback-event:d5a991af9cd2fe971a371fe15ff8401a74df0f0382f73cf18cd06beb9b077d78 (12 November 2026, 02:10:22 +0100) -->
+- Project: audio-fonts-gallery-12-november-2026; kind: iteration. (12 November 2026, 02:10:22 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/e7a595ee-68f1-4379-b8a2-2a7a1305728d.jsonl. (12 November 2026, 02:10:22 +0100)
+
+> Les trois maquettes Audio sont écrites ; je passe aux trois maquettes Fonts, puis à l'assemblage et au test dans le navigateur interne. (12 November 2026, 02:10:22 +0100)
+
+## 12 November 2026, 02:12:52 +0100 : Iteration
+
+<!-- feedback-event:e622e92cebb4a3bacdec9ef0bb7bb3c4f987b8de4aa867af8caecd01f972894e (12 November 2026, 02:12:52 +0100) -->
+- Project: audio-fonts-gallery-12-november-2026; kind: iteration. (12 November 2026, 02:12:52 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/e7a595ee-68f1-4379-b8a2-2a7a1305728d.jsonl. (12 November 2026, 02:12:52 +0100)
+
+> La page est assemblée et servie en local ; je vérifie maintenant chacune des six maquettes dans le navigateur interne (rendu, erreurs, polices réellement chargées). (12 November 2026, 02:12:52 +0100)
+
+## 12 November 2026, 02:16:40 +0100 : Iteration
+
+<!-- feedback-event:d00790b5424002393e8e077e6e4b7c5f9ad832f8067be22a079d5e16b9ff919f (12 November 2026, 02:16:40 +0100) -->
+- Project: audio-fonts-gallery-12-november-2026; kind: iteration. (12 November 2026, 02:16:40 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/e7a595ee-68f1-4379-b8a2-2a7a1305728d.jsonl. (12 November 2026, 02:16:40 +0100)
+
+> Tout est vérifié à l'écran ; je range maintenant le design dans ZenRay Edit (galerie, Assets, cloud) et je t'envoie les captures. (12 November 2026, 02:16:40 +0100)
+
+## 12 November 2026, 02:20:15 +0100 : Prompt
+
+<!-- feedback-event:657384d00f312905777cd75b0c2b44570cd2f0f0733d16467d270f9585bde706 (12 November 2026, 02:20:15 +0100) -->
+- Project: audio-fonts-gallery-12-november-2026; kind: prompt. (12 November 2026, 02:20:15 +0100)
+
+> 12 November 2026, résultat du prompt 1 : six maquettes livrées dans /Users/zenray/.claude/tmp/tmp-audio-fonts-gallery-12-november-2026/index.html (Audio A Mur d'ondes, B Pads, C Constellation ; Fonts A Mur de spécimens, B Banc d'essai jeu, C Table de mesure). Preuves : navigateur interne sans erreur, check-gallery-sync 0. En attente du choix de Matthieu ; aucune vue codée dans ZenRayProgress. (12 November 2026, 02:20:15 +0100)
+
+## 12 November 2026, 02:20:08 +0100 : Iteration
+
+<!-- feedback-event:296304e7914fb5599807988bf28c9dfc18ecff8273dbf6f3ee0014676311bfff (12 November 2026, 02:20:08 +0100) -->
+- Project: audio-fonts-gallery-12-november-2026; kind: iteration. (12 November 2026, 02:20:08 +0100)
+- Source: /Users/zenray/.claude/projects/-Users-zenray--claude-Memory1/e7a595ee-68f1-4379-b8a2-2a7a1305728d.jsonl. (12 November 2026, 02:20:08 +0100)
+
+> Le design est prouvé dans la galerie ZenRay Edit (skill, miroir et cloud) ; il me reste à consigner le travail (journal, feedback, checkpoint Assets) avant de te rendre la main. (12 November 2026, 02:20:08 +0100)
